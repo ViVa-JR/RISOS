@@ -1,0 +1,2 @@
+# RISOS
+VUT Study planner
